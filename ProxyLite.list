@@ -4,6 +4,11 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,openwrt.org
 
+#harvey
+DOMAIN-SUFFIX,letsencrypt.org,Proxy
+DOMAIN-SUFFIX,api.letsencrypt.org,Proxy
+
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
