@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,openwrt.org
 # DOMAIN-SUFFIX,api.letsencrypt.org,Proxy
 DOMAIN-SUFFIX,freenom.com
 DOMAIN-SUFFIX,whois.domaintools.com
+DOMAIN-SUFFIX,githubusercontent.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
