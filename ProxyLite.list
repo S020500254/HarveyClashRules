@@ -12,9 +12,7 @@ DOMAIN-SUFFIX,whois.domaintools.com
 DOMAIN-SUFFIX,githubusercontent.com
 
 # PT sites
-DOMAIN-SUFFIX,haidan.video
-DOMAIN-SUFFIX,chdbits.co
-DOMAIN-SUFFIX,ourbits.club
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
