@@ -1,1 +1,14 @@
-#
+# Gemini测试中
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,translate.google.com
+DOMAIN-SUFFIX,maps.googleapis.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,www.google-analytics.com
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,firebase.googleapis.com
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,ssl.gstatic.com
+DOMAIN-SUFFIX,android.googleapis.com
+DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,fcm.googleapis.com
