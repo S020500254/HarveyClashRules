@@ -37,11 +37,11 @@ DOMAIN-SUFFIX,claude.ai.com
 #DOMAIN-SUFFIX,adservice.google.com
 #DOMAIN-SUFFIX,firebase.googleapis.com
 #DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,ssl.gstatic.com
-DOMAIN-SUFFIX,android.googleapis.com
-DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,fcm.googleapis.com
+#DOMAIN-SUFFIX,ssl.gstatic.com
+#DOMAIN-SUFFIX,android.googleapis.com
+#DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+#DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+#DOMAIN-SUFFIX,fcm.googleapis.com
 
 
 
