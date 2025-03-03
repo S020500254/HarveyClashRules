@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,openwrt.org
 # harvey
 # DOMAIN-SUFFIX,letsencrypt.org,Proxy
 # DOMAIN-SUFFIX,api.letsencrypt.org,Proxy
-DOMAIN-SUFFIX,v6.rocks,直连会进反诈网站
 DOMAIN-SUFFIX,freenom.com
 DOMAIN-SUFFIX,whois.domaintools.com
 DOMAIN-SUFFIX,githubusercontent.com
