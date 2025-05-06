@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,hao123.com
 
 #Harvey List
 DOMAIN-SUFFIX,dynv6.com
-DOMAIN-SUFFIX,pttime.org
+#DOMAIN-SUFFIX,pttime.org
 
 # lucky证书
 DOMAIN-SUFFIX,letsencrypt.org
