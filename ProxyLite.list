@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,llgjc1.com
 DOMAIN-SUFFIX,dsbj.com
 DOMAIN-SUFFIX,dynv6.com
-DOMAIN-SUFFIX,pttime.org
+#DOMAIN-SUFFIX,pttime.org香港好像不行放到AI里面
 
 # PT sites
 
