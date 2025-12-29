@@ -42,6 +42,8 @@ IP-CIDR,114.114.115.115/32,no-resolve
 DOMAIN-SUFFIX,partner.outlook.cn
 DOMAIN-SUFFIX,partner.microsoftonline.cn
 DOMAIN-SUFFIX,login.partner.microsoftonline.cn
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tb.cn
 
 # 360
 DOMAIN-SUFFIX,360.com
