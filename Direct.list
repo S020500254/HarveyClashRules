@@ -5,16 +5,16 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 
-
 # DSBJ
 DOMAIN-SUFFIX,partner.outlook.cn
 DOMAIN-SUFFIX,partner.microsoftonline.cn
 DOMAIN-SUFFIX,login.partner.microsoftonline.cn
+DOMAIN-SUFFIX,sourcephotonics.com
+DOMAIN-KEYWORD,cd-pr
 DOMAIN-KEYWORD,sp-home
 
 # Harvey List
 #DOMAIN-SUFFIX,dynv6.com
-DOMAIN-SUFFIX,sourcephotonics.com
 
 # lucky证书
 DOMAIN-SUFFIX,letsencrypt.org
