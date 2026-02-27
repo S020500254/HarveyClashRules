@@ -4,7 +4,13 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
+
+
+# DSBJ
+DOMAIN-SUFFIX,partner.outlook.cn
+DOMAIN-SUFFIX,partner.microsoftonline.cn
+DOMAIN-SUFFIX,login.partner.microsoftonline.cn
+DOMAIN-KEYWORD,sp-home
 
 # Harvey List
 #DOMAIN-SUFFIX,dynv6.com
@@ -38,12 +44,6 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
-# DSBJ
-DOMAIN-SUFFIX,partner.outlook.cn
-DOMAIN-SUFFIX,partner.microsoftonline.cn
-DOMAIN-SUFFIX,login.partner.microsoftonline.cn
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,tb.cn
 
 # 360
 DOMAIN-SUFFIX,360.com
@@ -60,6 +60,8 @@ DOMAIN-SUFFIX,so.com
 DOMAIN-SUFFIX,58.com
 
 # Alibaba
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tb.cn
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alibaba.com
@@ -605,3 +607,4 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+DOMAIN-SUFFIX,hao123.com
