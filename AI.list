@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,openapi-drcn.cloud.dbankcloud.cn
-
+DOMAIN-SUFFIX,ollama.com
 
 # 借道AI
 DOMAIN-SUFFIX,pttime.org
