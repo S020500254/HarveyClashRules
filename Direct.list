@@ -17,6 +17,9 @@ DOMAIN-KEYWORD,sp-home
 # Harvey List
 #DOMAIN-SUFFIX,dynv6.com
 
+# 国内AI模型
+DOMAIN-SUFFIX,deepseek.com
+
 # lucky证书
 DOMAIN-SUFFIX,letsencrypt.org
 
