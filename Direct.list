@@ -16,6 +16,8 @@ DOMAIN-KEYWORD,sp-home
 
 # Harvey List
 #DOMAIN-SUFFIX,dynv6.com
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,fonts.googleapis.com
 
 # 国内AI模型
 DOMAIN-SUFFIX,deepseek.com
