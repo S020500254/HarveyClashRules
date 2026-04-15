@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,fonts.googleapis.com
 # 国内AI模型
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,kimi.com,DIRECT
+DOMAIN-SUFFIX,moonshot.cn,DIRECT
 
 # lucky证书
 DOMAIN-SUFFIX,letsencrypt.org
