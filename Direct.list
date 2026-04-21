@@ -26,7 +26,7 @@ DOMAIN-KEYWORD,sp-home
 #DOMAIN-SUFFIX,dynv6.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,fonts.googleapis.com
-
+DOMAIN-SUFFIX,live.com
 # 国内AI模型
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,qwen.ai
