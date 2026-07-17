@@ -10,8 +10,8 @@ DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,ts.net
 IP-CIDR,100.64.0.0/10
 IP-CIDR,fd7a:115c:a1e0::/48
-PROCESS-NAME,tailscale.exe
-PROCESS-NAME,tailscaled.exe
+#PROCESS-NAME,tailscale.exe
+#PROCESS-NAME,tailscaled.exe
 
 # DSBJ
 DOMAIN-SUFFIX,partner.outlook.cn
