@@ -13,6 +13,13 @@ IP-CIDR,fd7a:115c:a1e0::/48
 #PROCESS-NAME,tailscale.exe
 #PROCESS-NAME,tailscaled.exe
 
+# Synology 直连规则 (防止套件中心被 Fake-IP 劫持)
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.to
+DOMAIN-SUFFIX,synologydownload.com
+DOMAIN-SUFFIX,synologybits.com
+
 # DSBJ
 DOMAIN-SUFFIX,partner.outlook.cn
 DOMAIN-SUFFIX,partner.microsoftonline.cn
