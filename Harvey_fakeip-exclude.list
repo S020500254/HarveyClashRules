@@ -1,0 +1,34 @@
+# === Google / Gemini 登录必需 ===
+google.com
+googleapis.com
+gstatic.com
+oauth2.googleapis.com
+accounts.google.com
+generativelanguage.googleapis.com
+cloudcode-pa.googleapis.com
+
+# === Google AI Studio / Gemini Web ===
+aistudio.google.com
+gemini.google.com
+
+# === Google OAuth 相关 ===
+ssl.gstatic.com
+www.gstatic.com
+apis.google.com
+
+# === Synology 登录必需 ===
+synology.com
+global.synology.com
+
+# === 你当前配置中需要排除 fake-ip 的域名（保持一致） ===
+ts.net
+tailscale.com
+controlplane.tailscale.com
+login.tailscale.com
+
+msftconnecttest.com
+msftncsi.com
+
+sourcephotonics.com
+spprdeap.sourcephotonics.com
+sp-home
