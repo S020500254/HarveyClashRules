@@ -6,6 +6,8 @@ oauth2.googleapis.com
 accounts.google.com
 generativelanguage.googleapis.com
 cloudcode-pa.googleapis.com
+clientservices.googleapis.com
+aistudio-pa.googleapis.com
 
 # === Google AI Studio / Gemini Web ===
 aistudio.google.com
