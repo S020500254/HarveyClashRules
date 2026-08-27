@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,kimi.com,DIRECT
 DOMAIN-SUFFIX,moonshot.cn,DIRECT
 
 # lucky证书
-DOMAIN-SUFFIX,letsencrypt.org
+# DOMAIN-SUFFIX,letsencrypt.org
 
 # PT Sites
 DOMAIN-SUFFIX,haidan.video
